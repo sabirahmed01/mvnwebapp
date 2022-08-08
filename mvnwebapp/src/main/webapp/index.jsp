@@ -1,5 +1,5 @@
 <html>
 <body>
-<h3>Successfully Deployed on Tomcat using Jenkins!!!!</h3>
+<h3>Successfully Build and created artifact using Maven integrated with JFrog Artifactory!!!!</h3> 
 </body>
 </html>
