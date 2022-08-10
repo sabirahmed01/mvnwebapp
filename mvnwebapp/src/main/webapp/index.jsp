@@ -1,5 +1,5 @@
 <html>
 <body>
-<h3>Successfully Build and created artifact using Maven integrated with JFrog Artifactory!!!!</h3> 
+<h3>Successfully deployed artifact on the Artifactory!!!!</h3> 
 </body>
 </html>
